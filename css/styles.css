@@ -55,7 +55,7 @@ nav ul li a:hover{
 
 /* main section start here */
 
-.form, .google-imgage, .search-lucky-btn, .extra p{
+.form, .google-imgage, .search-lucky-btn, .extra {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -121,3 +121,9 @@ nav ul li a:hover{
     box-shadow: 2px 2px 2px 0px #c7c5c5;;
 }
 
+.extra {
+    color: #3f3f3f;
+}
+.extra a{
+    text-decoration: none;
+}
