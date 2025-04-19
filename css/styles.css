@@ -7,14 +7,14 @@ body{
 
 nav{
     padding-right: 20px;
-    border-bottom: 1px solid #8080805f;
+    /* border-bottom: 1px solid #8080805f; */
 }
 
 nav ul{
     display: flex;
     justify-content: right;
     align-items: center;
-    gap: 15px;
+    gap: 12px;
 }
 
 nav ul li{
@@ -32,6 +32,15 @@ nav ul li a{
     color: gray;
     padding: 10px;
     font-size: 20px;
+}
+
+.sign-in{
+    padding: 8px 10px;
+    color: white;
+    background-color: #0b57d0;
+    border: 1px solid #0b57d0;
+    border-radius: 4px; 
+    cursor: pointer;
 }
 
 .icon:hover{
