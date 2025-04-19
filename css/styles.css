@@ -6,7 +6,7 @@ body{
 
 
 nav{
-    margin: 10px;
+    padding-right: 20px;
     border-bottom: 1px solid #8080805f;
 }
 
@@ -14,15 +14,32 @@ nav ul{
     display: flex;
     justify-content: right;
     align-items: center;
-    gap: 30px;
+    gap: 15px;
 }
 
 nav ul li{
-    font-size: 18px;
     list-style: none;
 }
 
 nav ul li a{
+    font-size: 16px;
     text-decoration: none;
-    color: black;
+    color: #535252;
+}
+
+/* add extra design */
+.icon{
+    color: gray;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.icon:hover{
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #e8e8e8;
+}
+
+nav ul li a:hover{
+    border-bottom: 1px solid gray;
 }
