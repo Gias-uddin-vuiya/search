@@ -54,6 +54,53 @@ nav ul li a:hover{
 }
 
 /* main section start here */
-main img{
-    width: 10px;
+
+.form, .google-imgage, .search-lucky-btn, .extra p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.google-imgage img{
+    width: 350px;
+}
+
+.input-field {
+    margin-top: -30px;
+    width: 500px;
+    margin-bottom: 30px;
+    padding: 10px 15px;
+    border: 1px solid #c7c5c5;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px 0px #c7c5c5;
+}
+
+.input-field:hover{
+    box-shadow: 2px 2px 2px 2px #c7c5c5;
+}
+
+.input-field input{
+    padding-left: 8px;
+    font-size: 18px;
+    width: 390px;
+    outline: none;
+    border: none;
+}
+
+.search-icon{
+    padding-right: 3px;
+    color: gray;
+    cursor: pointer;
+}
+
+.right-icon{
+    font-size: 16px;
+    padding-left: 8px;
+    
+    cursor: pointer;
+}
+
+.fa-microphone, .fa-images{
+    padding-left: 10px;
 }

@@ -20,25 +20,30 @@
         </nav>
 
         <mian>
-            <img src="assets/google-heading.png" width="100px" alt="google">
-            <div class="form">
-                <form action="https://www.google.com/search">
-                    <div class="input-field">
-                        <i class="fa-solid fa-magnifying-glass"></i> 
-                        <input type="text" name="q"> 
-                        <i class="fa-solid fa-microphone"></i>
-                        <i class="fa-solid fa-images"></i>
-                        <input type="submit" value="Google Search">
-                    </div>
-                </form>
-            </div>
-            <div class="search-lucky-btn">
-                <button>Google Search</button>
-                <button>I'm Feeling Lucky</button>
-            </div>
-            <div class="extra">
-                <p>Today is World Heritage Day: <a href="#">Explore the most iconic places on Earth</a></p>
-                <p>Google offered in: Bangla</p>
+            <div class="container">
+                <div class="google-imgage">
+                    <img src="assets/google-heading.png"  alt="google">
+                </div>
+                <div class="form">
+                    <form action="https://www.google.com/search">
+                        <div class="input-field">
+                            <label for="search-icon" class="search-icon"><i class="fa-solid fa-magnifying-glass"></i> </label>
+                            <input type="text" name="q" id="search-icon"> 
+                            <label class="right-icon">
+                                <i class="fa-solid fa-microphone"></i>
+                                <i class="fa-solid fa-images"></i>
+                            </label>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="search-lucky-btn">
+                    <button type="submit">Google Search</button>
+                    <button>I'm Feeling Lucky</button>
+                </div>
+                <div class="extra">
+                    <p>Google offered in: <span>Bangla</span></p>
+                </div>
             </div>
         </mian>
 
