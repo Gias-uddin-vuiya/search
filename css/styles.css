@@ -52,3 +52,8 @@ nav ul li a{
 nav ul li a:hover{
     border-bottom: 1px solid gray;
 }
+
+/* main section start here */
+main img{
+    width: 10px;
+}
