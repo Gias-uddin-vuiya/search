@@ -213,7 +213,7 @@ footer {
 
 /* google advance search css start here */
 
-nav {
+.advanced-navigation-bar {
     display: flex;
     justify-content: space-between; 
 }
