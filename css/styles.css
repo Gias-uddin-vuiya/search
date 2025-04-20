@@ -54,7 +54,6 @@ nav ul li a:hover{
 }
 
 /* main section start here */
-
 .form, .google-imgage, .search-lucky-btn, .extra {
     display: flex;
     justify-content: center;
@@ -129,7 +128,6 @@ nav ul li a:hover{
 }
 
 /* footer section */
-
 
 footer{
     padding: 5px 0;
