@@ -1,75 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Search</title>
-        <link rel="shortcut icon" href="https://www.google.com/favicon.ico" type="image/x-icon">
-        <link rel="stylesheet" href="css/styles.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    </head>
-    <body>
-        <!-- naviation bar start -->
-        <nav>
-           <ul>
-                <li><a href="#">Images</a></li>
-                <li><a href="#">Advance Search</a></li>
-                <li><i class="fa-solid fa-flask icon"></i></li>
-                <li><i class="fas fa-th icon"></i></li>
-                <li class="sign-in">Sign In</li>
-           </ul>
-        </nav>
-        <!-- main seciton start here -->
-        <mian>
-            <div class="container">
-                <div class="google-imgage">
-                    <img src="assets/google-heading.png"  alt="google">
-                </div>
-                <div class="form">
-                    <form action="https://www.google.com/search">
-                        <div class="input-field">
-                            <label for="search-icon" class="search-icon"><i class="fa-solid fa-magnifying-glass"></i> </label>
-                            <input type="text" name="q" id="search-icon"> 
-                            <label class="right-icon">
-                                <i class="fa-solid fa-microphone"></i>
-                                <i class="fa-solid fa-images"></i>
-                            </label>
-                        </div>
-                    </form>
-                </div>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Search</title>
+    <link rel="shortcut icon" href="https://www.google.com/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
 
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#">Images</a></li>
+            <li><a href="#">Advanced Search</a></li>
+            <li><i class="fa-solid fa-flask icon"></i></li>
+            <li><i class="fas fa-th icon"></i></li>
+            <li class="sign-in">Sign In</li>
+        </ul>
+    </nav>
+
+    <!-- Main Section -->
+    <main>
+        <div class="container">
+            <div class="google-img">
+                <img src="assets/google-heading.png" alt="Google Logo" />
+            </div>
+
+            <form action="https://www.google.com/search" class="form">
+                <div class="input-field">
+                    <label for="search-icon" class="search-icon">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </label>
+                    <input type="text" name="q" id="search-icon" />
+                    <span class="right-icon">
+                        <i class="fa-solid fa-microphone"></i>
+                        <i class="fa-solid fa-images"></i>
+                    </span>
+                </div>
                 <div class="search-lucky-btn">
                     <button type="submit">Google Search</button>
-                    <button >I'm Feeling Lucky</button>
+                    <button type="button">I'm Feeling Lucky</button>
                 </div>
+            </form>
 
-                <div class="extra">
-                    <p>Google offered in: <a href="#">বাংলা</a> </p>
-                </div>
+            <div class="extra">
+                <p>Google offered in: <a href="#">বাংলা</a></p>
             </div>
-        </mian>
-        <!-- footer section start -->
-        <footer>
-            <div class="country">
-                <p>Bangladesh</p>
-            </div>
-            <hr />
-            <div class="footer-items">
-                <ul class="left-items">
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Advertising</a></li>
-                  <li><a href="#">Business</a></li>
-                  <li><a href="#">How Search works</a></li>
-                </ul>
-              
-                <ul class="right-items">
-                  <li><a href="#">Privacy</a></li>
-                  <li><a href="#">Terms</a></li>
-                  <li><a href="#">Settings</a></li>
-                </ul>
-              </div>
-              
-        </footer>
-    </body>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="country">
+            <p>Bangladesh</p>
+        </div>
+        <hr />
+        <div class="footer-items">
+            <ul class="left-items">
+                <li><a href="#">About</a></li>
+                <li><a href="#">Advertising</a></li>
+                <li><a href="#">Business</a></li>
+                <li><a href="#">How Search works</a></li>
+            </ul>
+            <ul class="right-items">
+                <li><a href="#">Privacy</a></li>
+                <li><a href="#">Terms</a></li>
+                <li><a href="#">Settings</a></li>
+            </ul>
+        </div>
+    </footer>
+
+</body>
 </html>
 
