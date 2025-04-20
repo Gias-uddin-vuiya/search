@@ -210,3 +210,16 @@ footer {
 .footer-items ul li a:hover {
     border-bottom: 1px solid #5f6368;
 }
+
+/* google advance search css start here */
+
+nav {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.logo img{
+    width: 100px;
+}
+
+  
