@@ -1,4 +1,4 @@
-# 📝 "🔍 Search: Google Frontend Clone". 
+# 🔍 Search: Google Frontend Clone. 
 Implement a basic search feature for a front-end web page using HTML, CSS, and JavaScript. The goal is to allow users to enter a search query and be redirected to a relevant search engine results page.
 
 ![Built with HTML](https://img.shields.io/badge/Built%20with-HTML-red)
