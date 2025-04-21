@@ -1,7 +1,6 @@
-# 📝 "Search: An Interactive Resume Builder". 
+# 📝 "🔍 Search: Google Frontend Clone". 
 Implement a basic search feature for a front-end web page using HTML, CSS, and JavaScript. The goal is to allow users to enter a search query and be redirected to a relevant search engine results page.
 
-![Status: Completed](https://img.shields.io/badge/Status-Completed-green)
 ![Built with HTML](https://img.shields.io/badge/Built%20with-HTML-red)
 ![Built with CSS](https://img.shields.io/badge/Built%20with-CSS-blue)
 
@@ -9,7 +8,12 @@ Implement a basic search feature for a front-end web page using HTML, CSS, and J
 
 ## 📌 Overview
 
-**Search** is built to help users craft compelling resumes with minimal effort. Users can enter their personal and professional details, and the application automatically formats the information into a well-structured resume. The system supports multiple resumes per user, making it ideal for professionals with diverse career goals.
+**Search** is a front-end project built as part of Harvard's CS50W course. The goal was to replicate core features of Google Search, including:
+- Regular Google Search
+- Google Image Search
+- Google Advanced Search
+
+This project demonstrates proficiency in HTML and CSS responsive UI that mimics Google’s aesthetics and behavior.
 
 ---
 
