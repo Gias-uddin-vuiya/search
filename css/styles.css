@@ -151,6 +151,10 @@ main{
     background-color: #e8e8e8;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
+.search-lucky-btn a{
+    text-decoration: none;
+    color: #3f3f3f;
+}
 
 /* Extra Language Link */
 .extra {
