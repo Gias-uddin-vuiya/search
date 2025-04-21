@@ -53,29 +53,26 @@ This project demonstrates proficiency in HTML and CSS responsive UI that mimics 
 
 --- 
 
-
---- 
-
----
 ##  🗂️ Project Structure
 
 ```base 
 resume-genie/ 
-├── 📁 app.py # Main application logic 
-├── 📁 templates/ # HTML templates 
-├── 📁 static/ # CSS, JS, and image files 
-├── 🗄️ database/ # SQLite database 
-├── 📄 requirements.txt # Python dependencies 
+├── 📁 index.html # Google Search clone
+├── 📁 heml 
+       ──> image.html      # Google Image Search page
+       ──> advanced.html   # Google Advanced Search page
+├── 📁 assets/ # image 
+├── 📁 css/
+          ──> style.html   # Styling for all pages
 └── 📄 README.md # Project documentation
 ```
-
 
 ## 👤 Contact
 For any questions or feedback, feel free to reach out:
 
 
 - Email : giasuddinvuiya2022@gmail.com
-- gitHub : [GiasuddinvuiyaBD](https://github.com/GiasuddinvuiyaBD)
+- gitHub : [Gias-uddin-vuiya](https://github.com/Gias-uddin-vuiya)
 
 --- 
 
