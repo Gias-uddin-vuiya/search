@@ -80,11 +80,8 @@ For any questions or feedback, feel free to reach out:
 ## 🙏 Acknowledgments
 Special thanks to:
 
-- **CS50x Team**: For providing an excellent introduction to computer science and inspiring me to create this project as my final submission.
-- **David J. Malan and the Harvard CS50 Team**: For the engaging lectures, problem sets, and invaluable learning resources.
-- **Family and Friends**: For their encouragement and support throughout the development of this project.
-- **Flask Documentation**, **SQLite Community**, **Bootstrap Framework**, and **OpenAI** for their invaluable tools and resources that supported the development of this project.
-
+- **CS50x Team**: For providing an excellent introduction to computer science and inspiring me to create this project.
+- **David J. Malan and the Harvard CS50 Team**: For inspiring thousands of students with world-class content.
 --- 
 ## 📜✨ License 
-This project is licensed under the [MIT License](/ResumeGenie/LICENSE)
+This project is licensed under the [MIT License](/search/LICENSE)
