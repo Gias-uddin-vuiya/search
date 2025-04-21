@@ -25,8 +25,8 @@ This project demonstrates proficiency in HTML and CSS responsive UI that mimics 
 
 ---
 
-## 🌐 Video link
-Check out the live application [here](https://youtu.be/kaYG7iiTsXQ)
+## 🌐 Live Demo
+📺 [Watch Demo on YouTube](I will add at later)
 
 ---
 
