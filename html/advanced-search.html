@@ -25,42 +25,44 @@
     <!-- Main Section -->
     <main>
         <div class="advance-container">
-            <p class="advanced-search-head">Advanced Search</p>
-            <div class="border"></div>
-            
-            <form action="https://www.google.com/imghp" class="form">
-                <div class="clue-of-the-form">
-                    <p>Find pages with...</p>
-                    <p>To do this in the search box.</p>
-                </div>
-                <div class="form-inputs">
-                    <label for="all-words">all these words:</label>
-                    <input type="text" id="all-words">
-                    <small>Type the important words: tri-colour rat terrier</small>
-                    
-                    <label for="all-words">this exact word or phrase:</label>
-                    <input type="text" id="all-words">
-                    <small>Put exact words in quotes: "rat terrier"</small>
-
-                    <label for="all-words">any of these words:</label>
-                    <input type="text" id="all-words">
-                    <small>Type OR between all the words you want: miniature OR standard
-                    </small>
-
-                    <label for="all-words">anone of these words:</label>
-                    <input type="text" id="all-words">
-                    <small>Put a minus sign just before words that you don't want: -rodent, -"Jack Russell"
-                    </small>
-
-                    <label for="all-words">numbers ranging from:</label>
-                    <input type="text" id="all-words"> to <input type="text" id="all-words">
-                    <small>Put two full stops between the numbers and add a unit of measurement: 10..35 kg, £300..£500, 2010..2011</small>
-
-                    <button type="submit">Addvanced Search</button>
-                </div>
-            </form>
+          <p class="advanced-search-head">Advanced Search</p>
+          <div class="border"></div>
+    
+          <form action="https://www.google.com/search" class="form" method="GET">
+            <div class="clue-of-the-form">
+              <p>Find pages with...</p>
+              <p>To do this in the search box.</p>
+            </div>
+    
+            <div class="form-inputs">
+              <label for="all">all these words:</label>
+              <input type="text" id="all" name="as_q">
+              <small>Type the important words: tri-colour rat terrier</small>
+    
+              <label for="exact">this exact word or phrase:</label>
+              <input type="text" id="exact" name="as_epq">
+              <small>Put exact words in quotes: "rat terrier"</small>
+    
+              <label for="any">any of these words:</label>
+              <input type="text" id="any" name="as_oq">
+              <small>Type OR between all the words you want: miniature OR standard</small>
+    
+              <label for="none">none of these words:</label>
+              <input type="text" id="none" name="as_eq">
+              <small>Put a minus sign just before words you don't want: -rodent, -"Jack Russell"</small>
+    
+              <label for="from">numbers ranging from:</label>
+              <div class="range-wrapper">
+                <input type="text" id="from" name="as_nlo"> to 
+                <input type="text" id="to" name="as_nhi">
+              </div>
+              <small>Put two full stops between the numbers and add a unit of measurement: 10..35 kg, £300..£500, 2010..2011</small>
+    
+              <button type="submit">Advanced Search</button>
+            </div>
+          </form>
         </div>
-    </main>
+      </main>
 
     <!-- Footer -->
     <footer>
