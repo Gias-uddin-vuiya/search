@@ -34,21 +34,22 @@ This project demonstrates proficiency in HTML and CSS responsive UI that mimics 
 
 | Device  | Screenshot                                                                                   |
 |---------|---------------------------------------------------------------------------------------------|
-| Mobile  | ![Mobile View](/ResumeGenie/static/images/mobile-view.png)                         |
-| Desktop | ![Desktop View](/ResumeGenie/static/images/desktop-view.png)                               |
+| Google Search  | !Google Search](/ResumeGenie/static/images/mobile-view.png)                         |
+| Image Search | ![Image Search](/ResumeGenie/static/images/desktop-view.png)                               |
+| Advanced Search | ![Advanced Search](/ResumeGenie/static/images/desktop-view.png)                               |
+| Mobile View | ![Mobile View](/ResumeGenie/static/images/desktop-view.png)                               |
 
 ---
 
 ## Features
-- 🔐 **User Authentication:**: Choose from modern, creative, or minimalist designs.
-- 🛠️ **User-Friendly Interface**: Fill in your details with a guided form.
+- 🔎 **Google Search:** Search query redirects to actual ![Google search results](https://www.google.com).
+- 🖼️ **Image Search:** Search for images and get redirected to Google Image results.
 - 📤 **Export Options**: Download your resume as a PDF or share it online.
-- 🌐 **Responsive Design**: Optimized for desktop and mobile devices.
-- 💾 **sqlite3**: Save your progress and resume drafts.
-- 📂 **Resume Management**: Create, edit, and store multiple resumes.
-- 🗂️ **JSON Data Storage**: Save complex data such as education, work experience and skills in a structured format.
-- 📱 **Mobile-Friendly Design**: Fully responsive UI for all devices.
-- ⚠️ **Error Handling**: Friendly error messages and form validation.
+- 🧠 **Advanced Search:** Input multiple conditions and view tailored results via Google's advanced search engine.
+- 🎯 **I'm Feeling Lucky:** One-click direct access to the first result of the query.
+- 📱 **Responsive Layout:** Clean and consistent layout for both desktop and mobile views.
+- 🎨 **Google-inspired CSS:** Recreates Google’s minimalist UI with rounded input boxes and styled buttons.
+
 
 --- 
 
