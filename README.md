@@ -80,8 +80,11 @@ For any questions or feedback, feel free to reach out:
 ## 🙏 Acknowledgments
 Special thanks to:
 
-- **CS50x Team**: For providing an excellent introduction to computer science and inspiring me to create this project.
-- **David J. Malan and the Harvard CS50 Team**: For inspiring thousands of students with world-class content.
+- **CS50 Web Programming with Python and JavaScript** for providing the motivation and structure for this project.
+
+- **David J. Malan** and the CS50 team for inspiring thousands of students with world-class content.
+
+- **Google** for UI inspiration.
 --- 
 ## 📜✨ License 
 This project is licensed under the [MIT License](/search/LICENSE)
