@@ -34,10 +34,10 @@ This project demonstrates proficiency in HTML and CSS responsive UI that mimics 
 
 | Device  | Screenshot                                                                                   |
 |---------|---------------------------------------------------------------------------------------------|
-| Google Search  | !Google Search](/ResumeGenie/static/images/mobile-view.png)                         |
-| Image Search | ![Image Search](/ResumeGenie/static/images/desktop-view.png)                               |
+| Google Search  | ![Google Search](/search/assets/google-search.png)                         |
+| Image Search | ![Image Search](/search/assets/image-search.png)                               |
 | Advanced Search | ![Advanced Search](/ResumeGenie/static/images/desktop-view.png)                               |
-| Mobile View | ![Mobile View](/ResumeGenie/static/images/desktop-view.png)                               |
+| Mobile View | ![Mobile View](/search/assets/mobile-view.png)                               |
 
 ---
 
