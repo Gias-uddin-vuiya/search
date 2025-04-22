@@ -36,7 +36,7 @@ This project demonstrates proficiency in HTML and CSS responsive UI that mimics 
 |---------|---------------------------------------------------------------------------------------------|
 | Google Search  | ![Google Search](/search/assets/google-search.png)                         |
 | Image Search | ![Image Search](/search/assets/image-search.png)                               |
-| Advanced Search | ![Advanced Search](/ResumeGenie/static/images/desktop-view.png)                               |
+| Advanced Search | ![Advanced Search](/search/assets/advanced-search.png)                               |
 | Mobile View | ![Mobile View](/search/assets/mobile-view.png)                               |
 
 ---
