@@ -34,10 +34,10 @@ This project demonstrates proficiency in HTML and CSS responsive UI that mimics 
 
 | Device  | Screenshot                                                                                   |
 |---------|---------------------------------------------------------------------------------------------|
-| Google Search  | ![Google Search](/search/assets/google-search.png)                         |
-| Image Search | ![Image Search](/search/assets/image-search.png)                               |
-| Advanced Search | ![Advanced Search](/search/assets/advanced-search.png)                               |
-| Mobile View | ![Mobile View](/search/assets/mobile-view.png)                               |
+| Google Search  | ![Google Search](./assets/google-search.png)                         |
+| Image Search | ![Image Search](./assets/image-search.png)                               |
+| Advanced Search | ![Advanced Search](./assets/advanced-search.png)                               |
+| Mobile View | ![Mobile View](./assets/mobile-view.png)                               |
 
 ---
 
