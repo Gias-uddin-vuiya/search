@@ -3,6 +3,7 @@ Implement a basic search feature for a front-end web page using HTML, CSS, and J
 
 ![Built with HTML](https://img.shields.io/badge/Built%20with-HTML-red)
 ![Built with CSS](https://img.shields.io/badge/Built%20with-CSS-blue)
+![Built with JS](https://img.shields.io/badge/Built%20with-JavaScript-yellow)
 
 ---
 
