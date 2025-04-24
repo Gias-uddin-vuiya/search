@@ -18,6 +18,7 @@ This project demonstrates proficiency in HTML and CSS responsive UI that mimics 
 
 ---
 
+
 ## 💻 Technologies Used
 
 | **Category**     | **Technologies**                                     |
